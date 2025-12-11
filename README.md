@@ -38,9 +38,3 @@ While profitable, the strategy underperformed the strong bullish run of the SPY 
 | **Max Drawdown** | -8.72% | - |
 | **Win Rate** | 37.61% | - |
 
-## 🛠️ How to Run
-
-1. Clone the repo.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
