@@ -29,7 +29,6 @@ The strategy significantly outperformed the Buy & Hold benchmark on QQQ.
 | **Profit Factor** | 1.24 | - |
 
 ### SPY (S&P 500)
-*Parameters adjusted: EMA 100, CVD Span 50.*
 While profitable, the strategy underperformed the strong bullish run of the SPY benchmark during this period.
 
 | Metric | Strategy | Buy & Hold |
